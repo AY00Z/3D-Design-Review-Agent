@@ -36,7 +36,7 @@ Pièces non conformes en rouge + rapport de revue
 
 **Le principe clé :** les **outils mesurent**, le **LLM décide** quoi vérifier et explique les résultats, et **l'humain valide** le rapport final.
 
-L'agent ne voit jamais la maquette directement. Il ne reçoit que du texte : la description des outils, la demande de l'utilisateur et les résultats des mesures. Les calculs géométriques restent donc exacts, et on étend les capacités de l'agent en lui ajoutant de nouveaux outils.
+
 
 ## Technologies
 
@@ -112,4 +112,4 @@ Le projet est en cours d'amélioration.
 
 ## Auteure
 
-**Aya Boussaid** · Ingénieure en génie logiciel · Master IA et sciences de l'image, Université Gustave Eiffel
+**Aya Boussaid** 
