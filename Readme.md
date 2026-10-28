@@ -4,9 +4,8 @@ Prototype d'agent IA qui vérifie des règles de conception sur une maquette 3D,
 
 > 🚧 **Projet en cours d'amélioration.** Ce dépôt est un premier prototype. Les prochaines étapes sont l'utilisation d'une base de modèles 3D réels et l'évaluation systématique de l'agent (voir [Feuille de route](#feuille-de-route)).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON-PSEUDO/3d-design-review-agent/blob/main/design_review_agent.ipynb)
 
-![Démo : les pièces non conformes apparaissent en rouge](demo.png)
+
 
 ---
 
