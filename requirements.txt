@@ -1,0 +1,9 @@
+# Géométrie 3D : création de la maquette, distances et interférences
+trimesh
+python-fcl
+
+# Agent IA (avec la connexion aux API compatibles OpenAI, comme Groq)
+smolagents[openai]
+
+# Interface web avec visualiseur 3D
+gradio
